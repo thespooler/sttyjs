@@ -1,0 +1,16 @@
+{
+  "name": "sshitty",
+  "version": "1.0.0",
+  "description": "tty.js ssh proxy, using passport's totp strategy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "latest",
+    "tty.js": "latest",
+    "passport-totp": "latest"
+  }
+}
