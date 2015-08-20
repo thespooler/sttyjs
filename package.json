@@ -4,6 +4,7 @@
   "repository": "thespooler/sttyjs",
   "description": "tty.js ssh proxy, using passport's totp strategy",
   "main": "index.js",
+  "bin": "./bin/stty.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
