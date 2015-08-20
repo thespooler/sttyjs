@@ -1,6 +1,7 @@
 {
-  "name": "sshitty",
+  "name": "sttyjs",
   "version": "1.0.0",
+  "repository": "thespooler/sttyjs",
   "description": "tty.js ssh proxy, using passport's totp strategy",
   "main": "index.js",
   "scripts": {
